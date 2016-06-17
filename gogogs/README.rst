@@ -12,6 +12,8 @@ Wildcard munin plugin to monitor price gasoline(petrol) and diesel oil in Japan 
 
 .. image:: https://github.com/tinbotu/munin-plugins-misc/raw/master/gogogs/gogogs_13-year.png
 
+.. image:: https://github.com/tinbotu/munin-plugins-misc/raw/master/gogogs/gogogs_13-pinpoint.png
+
 - 赤: レギュラー
 - 黄: ハイオク(プレミアム)
 - 緑: 軽油
